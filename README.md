@@ -1,7 +1,7 @@
 # Learn NumPy
 We design this course with 9 lessons to help beginners can quickly understand and utilize this useful library.
 
-## Chapters
+## Lessons
 
 ### Lesson 1: Basics & Array Creations
  - This article describes the differences between **NumPy arrays** and **Python arrays**, as well as methods and basic operations for building arrays or matrices.
