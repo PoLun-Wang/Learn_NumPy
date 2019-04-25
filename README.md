@@ -13,7 +13,7 @@ We design this course with 9 lessons to help beginners can quickly understand an
  - **File Name:** *numpy_lesson2-Printing Arrays.ipynb*
  - **Link:** [NumPy 1.14 教學 – #02 如何印出陣列以及格式設定(np.set_printoptions)](https://www.brilliantcode.net/1045/numpy-tutorial-how-to-print-array/)
 
-### Lesson 3: How to print array? & Format settings
+### Lesson 3: Basic calculation in NumPy(addition, subtraction, multiplication and division)
  - This article will introduce addition, subtraction, multiplication and division (including matrix multiplication), important attributes, and common calculation with matrices! (e.g. dot, sum, min, max, mean, cumsum, sqrt, add, exp, ...)
  - **File Name:** *numpy_lesson3-Basic Operations.ipynb*
  - **Link:** [NumPy 1.14 教學 – #03 基本操作(加減乘除、矩陣乘法、取代)](https://www.brilliantcode.net/1062/numpy-tutorial-basic-operations/)
