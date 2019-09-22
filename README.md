@@ -48,5 +48,11 @@ We design this course with 9 lessons to help beginners can quickly understand an
  - **File Name:** *numpy_lesson9-ix_( ), Linear Algebra, Repeat, Stack.ipynb*
  - **Link:** [NumPy 1.14 教學 – #09 ix_( )函數、線性代數(Linear Algebra)、重複(Repeat)、堆疊(Stack)](https://www.brilliantcode.net/1263/numpy-tutorial-ix-linear-algebra-repeat-stack/)
 
+## Notes
+### Note 1: The padding on matrix
+- This article will show how to use the "pad()" function of Numpy, and utilize it in building convolutional neural networks.
+- **File Name:** *numpy_note-01-Padding-function-in-numpy.ipynb*
+- **Link:** [Numpy 筆記-#01 卷積神經網路的Padding](https://www.brilliantcode.net/1821/numpy-notes-01-padding-in-convolutional-neural-network/)
+
 ## How to use?
  - Just fork to your own github or download this repository directly. And run the jupyter file that you interest lesson.
