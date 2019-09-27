@@ -54,5 +54,10 @@ We design this course with 9 lessons to help beginners can quickly understand an
 - **File Name:** *numpy_note-01-Padding-function-in-numpy.ipynb*
 - **Link:** [Numpy 筆記-#01 卷積神經網路的Padding](https://www.brilliantcode.net/1821/numpy-notes-01-padding-in-convolutional-neural-network/)
 
+### Note 2: Save the variables as .npz file
+- We provided how to save the variables as a npz file, and demonstrated how to load npz file. In addition to this, we also compared the time costs of **numpy.savez** and **numpy.savez_compressed**.
+- **File Name:** *numpy_note-02-save-variables-as-npz.ipynb*
+- **Link:** [Numpy 筆記-#02 另存變數為 .npz](https://www.brilliantcode.net/1832/numpy-note-02-save-variables-as-npz/)
+
 ## How to use?
  - Just fork to your own github or download this repository directly. And run the jupyter file that you interest lesson.
